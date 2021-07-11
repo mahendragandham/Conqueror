@@ -10,7 +10,7 @@
   <li>Declare the version of <b>Initial Ram Disk</b> with initrd keyword
   </br><b>initrd /boot/initrd-4.19.0-10-amd64</b></li>
 </ul>
-<p>Above all this, the code is:</p>
+<p>Above all this, the code is in the following:</p>
 <pre>
 set default=0
 set timeout=0
