@@ -1,8 +1,8 @@
-#include <lib.h>
-#include <fcntl.h>
-#include <time.h>
-#include <printf.h>
-#include <linux/input-event-codes.h>
+#include "lib.h"
+#include "fcntl.h"
+#include "time.h"
+#include "printf.h"
+#include "linux/input-event-codes.h"
 
 unsigned long console_fd = 0;
 
